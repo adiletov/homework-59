@@ -1,5 +1,7 @@
 .App {
+  display: flex;
   text-align: center;
+  flex-direction: column;
 }
 
 .App-logo {
@@ -19,4 +21,29 @@
 
 .App-link {
   color: #09d3ac;
+}
+.searchInput{
+  font-size: 20px;
+  margin-top: 5px;
+}
+.btnSearch{
+  outline: none;
+font-size: 21px;
+  color: white;
+  border-radius: 20px;
+  margin-left: 12px;
+  background: red;
+}
+.btnActive{
+  outline: none;
+  font-size: 21px;
+  border-radius: 20px;
+  margin-left: 12px;
+  background: greenyellow;
+}
+.task1{
+  text-align: center;
+}
+.task2{
+  margin-top: 100px;
 }

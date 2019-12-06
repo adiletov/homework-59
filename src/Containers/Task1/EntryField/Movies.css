@@ -1,0 +1,17 @@
+.inputMovies{
+    width: 200px;
+    height: 20px;
+    padding-right: 50px;
+}
+.count{
+    display: inline-block;
+    border: 1px solid #cccccc;
+    height: 23px;
+    padding-top: 0.5px;
+    width: 25px;
+}
+.btnMovie{
+    margin-left: -55px;
+    height: 20px;
+    width: 50px;
+}
